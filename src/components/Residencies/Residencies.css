@@ -1,0 +1,8 @@
+@media (max-width: 640px) {
+    .r-card{
+        align-items: center;
+    }
+    .r-head>span{
+        margin-bottom: 0;
+    }
+}

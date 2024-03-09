@@ -1,0 +1,28 @@
+@media (max-width: 640px) {
+    .hero-container{
+        margin-top: 20px;
+        flex-direction: column;
+    }
+    .orange-circle{
+        left: 34%;
+    }
+    .heading{
+        font-size: 2.5rem;
+        line-height: 3rem;
+    }
+    .search-bar{
+        padding: 10px;
+        }
+    .image-container{
+        margin-top: 20px;
+        width: 80%;
+    }
+    .stats{
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 2px;
+    }   
+    .countup{
+        font-size: 1.5rem;
+    }
+}
